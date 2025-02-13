@@ -129,6 +129,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697959762788:android:4d031279892930e1230871",
+        "android_client_info": {
+          "package_name": "com.upercart.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697959762788-qegqm8lcm6tba0072cg92cr7qmlot4fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoGKk7URJocCNsTpCgSCvR9wUN3iQKGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697959762788-qegqm8lcm6tba0072cg92cr7qmlot4fh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697959762788-9vnf611u395bor5m4vjdel3jhcnl5vgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upercart.grocerydelivery"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

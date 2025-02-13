@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>697959762788-bihkao48mo54olc5mkkl6f2odr3k0l2r.apps.googleusercontent.com</string>
+	<string>697959762788-vmid1cb2u4cbsvknicrjj0u1v7ukv4ar.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.697959762788-bihkao48mo54olc5mkkl6f2odr3k0l2r</string>
+	<string>com.googleusercontent.apps.697959762788-vmid1cb2u4cbsvknicrjj0u1v7ukv4ar</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>697959762788-2osui5gb3v33dbeb9ifisid46tlmc8rl.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.upercart.driver</string>
+	<string>com.upercart.delivery</string>
 	<key>PROJECT_ID</key>
 	<string>upercart-fd922</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:697959762788:ios:e3c60c7d92373ea1230871</string>
+	<string>1:697959762788:ios:f7d227dc3ef7a37b230871</string>
 	<key>DATABASE_URL</key>
 	<string>https://upercart-fd922-default-rtdb.firebaseio.com</string>
 </dict>
