@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "697959762788-778mik09n2n427q7bktt5q82ms2c3hbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upercart.delivery",
+            "certificate_hash": "bd8f37ad5015d99e15702f9f4cc5dd77ee42f7e2"
+          }
+        },
+        {
           "client_id": "697959762788-qegqm8lcm6tba0072cg92cr7qmlot4fh.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -138,6 +146,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "697959762788-nc5luvs99o67l17bh3eehtunasghd98u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upercart.user",
+            "certificate_hash": "2b86283c22dee71c1eb64626337de82a866c6148"
+          }
+        },
         {
           "client_id": "697959762788-qegqm8lcm6tba0072cg92cr7qmlot4fh.apps.googleusercontent.com",
           "client_type": 3
