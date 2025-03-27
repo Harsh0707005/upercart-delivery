@@ -289,7 +289,7 @@ class HomeScreen extends StatelessWidget {
     }else if(permission == LocationPermission.deniedForever || (GetPlatform.isIOS ? false : permission == LocationPermission.whileInUse)) {
       Get.dialog(CustomAlertDialogWidget(description: permission == LocationPermission.whileInUse ? 'you_denied'.tr : 'you_denied_forever'.tr, onOkPressed: () async {
         Get.back();
-        await Geolocator.openAppSettings();
+        // await Geolocator.openAppSettings();
         // checkPermission(callback);
       }), barrierDismissible: false);
     }else {
